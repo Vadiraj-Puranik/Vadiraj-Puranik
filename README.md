@@ -3,7 +3,7 @@
 - I am [Vadiraj Puranik](https://in.linkedin.com/in/vadiraj-puranik-4518a4165).
 
 - Brief intro about me:
-  * My Tech life started almost 2 years ago. I am transitioning to a role of `DevOps Engineer` |  `Site Reliability Engineer` | `Cloud Engineer`
+  * My Tech life started almost 2 years ago. I am excited about opportunities in `DevOps Engineering` |  `Site Reliability Engineering` | `Cloud Engineering` domains.
   * What excites me ? Well here are few things that I am passionate about 
   `Automation `
   `DevOps`
