@@ -11,7 +11,7 @@
   `Coding-Python`
   `Troubleshooting Multi-Cloud Environments` and also I recently started to like `Pasta `
 
-- I am using the following  repositories to demonstrate  my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`,  `Jenkins`, `GitLab`,  `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
+- I am using the following  repositories to demonstrate  my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`,  `Jenkins`, `GitHub`,  `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
 
   | Repository Name | Description  |
   | ------ | ------ |
