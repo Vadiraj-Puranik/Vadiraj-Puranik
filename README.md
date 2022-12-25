@@ -7,8 +7,8 @@
   * What excites me ? Well here are few things that I am passionate about 
   `Automation `
   `DevOps`
-  `CLoud Infrastructure`
-  `Coding-Python`
+  `Cloud Infrastructure`
+  `Coding in Python`
   `Troubleshooting Multi-Cloud Environments` and `Building scalable Architectures`
 
 - I am using the following  repositories to demonstrate  my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`,  `Jenkins`, `GitHub`,  `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
