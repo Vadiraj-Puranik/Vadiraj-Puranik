@@ -15,7 +15,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [AWS-Architectures](https://github.com/Vadiraj-Puranik/AWS-Architectures) | Demos of AWS Architectures that I have worked on. |
+  | [AWS-Services](https://github.com/Vadiraj-Puranik/AWS-Architectures) | Demos of AWS Architectures that I have worked on. |
   | [Portfolio](https://github.com/Vadiraj-Puranik/Portfolio) | This is my portfolio website hosted on Github pages built using HTML, CSS, Bootstrap, PHP |
   | [Python Automation ](https://github.com/Vadiraj-Puranik/PythonAutomation) | Repository demonstrating my automation projects using python |
   | [Terraform ](https://github.com/Vadiraj-Puranik/Terraform) | Repository on various AWS Architectures implemented via Terraform Automation |
