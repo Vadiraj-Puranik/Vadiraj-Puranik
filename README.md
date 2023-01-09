@@ -19,7 +19,7 @@
   | [Portfolio](https://github.com/Vadiraj-Puranik/Portfolio) | This is my portfolio website hosted on Github pages built using HTML, CSS, Bootstrap, PHP |
   | [Python Automation ](https://github.com/Vadiraj-Puranik/PythonAutomation) | Repository demonstrating my automation projects using python |
   | [Terraform ](https://github.com/Vadiraj-Puranik/Terraform) | Repository on various AWS Architectures implemented via Terraform Automation |
-  | [AWS-DevOps-Projects ](https://github.com/Vadiraj-Puranik/AWS-DevOps-Projects) | This repository includes the projects built using various DevOps methodologies |
+  | [AWS-DevOps-Projects ](https://github.com/Vadiraj-Puranik/AWS-DevOps-Projects) | This repository includes the projects built using various AWS Associated DevOps methodologies |
   | [45DaysofDevOps](https://github.com/Vadiraj-Puranik/45DaysofDevOps) | 45 days journey into DevOps exploring various DevOps Tools, Technologies and live project demonstrations |
   
   
