@@ -21,5 +21,6 @@
   | [Terraform ](https://github.com/Vadiraj-Puranik/Terraform) | Repository on various AWS Architectures implemented via Terraform Automation |
   | [AWS-DevOps-Projects ](https://github.com/Vadiraj-Puranik/AWS-DevOps-Projects) | This repository includes the projects built using various AWS Associated DevOps methodologies |
   | [45DaysofDevOps](https://github.com/Vadiraj-Puranik/45DaysofDevOps) | 45 days journey into DevOps exploring various DevOps Tools, Technologies and live project demonstrations |
+   | [DevOps-Roadmap-2023](https://github.com/Vadiraj-Puranik/DevOps-Roadmap) | Repositary Provides roadmap on becoming a successfull DevOps Engineer , it also sheds knowledge on various certifications on DevOps Tools |
   
   
