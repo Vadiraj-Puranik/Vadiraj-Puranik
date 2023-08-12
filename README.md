@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vadiraj-puranik" alt="vadiraj-puranik" /></a> </p>
 
-- 📝 I regularly write articles on [Site Reliability Engineering and DevOps Engineering](Site Reliability Engineering and DevOps Engineering)
+- 📝 I regularly write articles on Site Reliability Engineering and DevOps Engineering
 
 - 💬 Ask me about **Terraform, Jenkins, Kubernetes, ArgoCD, AWS, GCP, Prometheus, Grafana, Datadog, NewRelic and Docker**
 
