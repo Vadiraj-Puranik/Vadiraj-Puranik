@@ -31,6 +31,7 @@
   | Repository Name | Description  |
   | ------ | ------ |
   | [AWS-Services](https://github.com/Vadiraj-Puranik/AWS-Architectures) | The Repository exlains breify about various AWS Services(Elastic Load Balancer, Databases, CloudFront, CloudWatch, Control Tower, Route53, S3, Serverless,VPC , Analytics, Auto-Scaling, Storage(Block and File) , CloudFormation, Elastic Beanstalk and Security ) that I have worked on. |
+  | [AWS-CodePipeline](https://github.com/Vadiraj-Puranik/AWS-CodePipeline) | Repository contains applications built using AWS CodePipeline(CodeCommit,CodeBuild,CodeDeploy) |
   | [Portfolio](https://github.com/Vadiraj-Puranik/Portfolio) | This is my portfolio website hosted on Github pages built using HTML, CSS, Bootstrap, PHP |
   | [Python Automation ](https://github.com/Vadiraj-Puranik/PythonAutomation) | Repository demonstrating my automation projects using python |
   | [Terraform ](https://github.com/Vadiraj-Puranik/Terraform) | Repository on various AWS Architectures implemented via Terraform Automation |
