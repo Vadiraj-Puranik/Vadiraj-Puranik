@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadiraj Puranik</h1>
-<h3 align="center">I am passionate and excited about opportunities in Site Reliability Engineering | DevOps Engineering | Cloud Engineering domains. What excites me ? Well , I am passionate about Automation , DevOps, Cloud Infrastructure, Troubleshooting Multi-Cloud Environments and Building scalable Architectures</h3>
+<h3 align="center">I am passionate and excited about opportunities in Site Reliability Engineering | DevOps Engineering | Cloud Security/Engineering domains. What excites me ? Well , I am passionate about Automation , DevOps, Cloud Infrastructure, Troubleshooting Multi-Cloud Environments and Building scalable Architectures</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadiraj-puranik&label=Profile%20views&color=0e75b6&style=flat" alt="vadiraj-puranik" /> </p>
 
